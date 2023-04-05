@@ -1,0 +1,16 @@
+{
+  "name": "graphql-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jdcasanova/graphql-workshop-main.git",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src-solutions/index.js"
+  },
+  "dependencies": {
+    "graphql": "16.6.0",
+    "apollo-server": "3.12.0",
+    "got": "12.6.0"
+  }
+}
